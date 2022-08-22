@@ -24,7 +24,7 @@ Le spectateur n'a pas de réactions prédéfinies à certains types de tour, mai
 De même les tours connus du `Singe` lui sont passés en paramètre de constructeur, ce qui permet une plus grande réusabilité.
 
 Une interface `IArtiste` a été introduite, ce qui permet de découpler le Spectateur de son implémentation. Cette interface possède un event "Reactions", auquel le spectateur ajoute sa propre méthode de réaction. Ainsi, les implémentations de l'interface artiste n'a pas de dépendence au Spectateur.
-Ce découplage rend possible d'ajouter de nouveaux types d'artistes sans avoir à modifier l'implémentation du Spectateur.
+Ce découplage rend possible l'ajout de nouveaux types d'artistes sans avoir à modifier l'implémentation du Spectateur.
 
 L'absence de référence explicite à l'enum `TypeDeTour` aussi bien dans les implementation de d'`IArtiste` et de `Spectateur`  permet d'ajouter ou de retirer des types sans avoir à changer l'implémentation des classes existantes.
 
