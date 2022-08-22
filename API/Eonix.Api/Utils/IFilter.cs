@@ -1,7 +1,6 @@
-﻿namespace Eonix.Api.Utils
+﻿namespace Eonix.Api.Utils;
+
+public interface IFilter<T>
 {
-    public interface IFilter<T>
-    {
-        public IQueryable<T> ApplyTo(IQueryable<T> query);
-    }
+    public IQueryable<T> ApplyTo(IQueryable<T> query);
 }

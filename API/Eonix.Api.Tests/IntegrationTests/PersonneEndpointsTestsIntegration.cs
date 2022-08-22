@@ -1,5 +1,6 @@
 ﻿using Eonix.Api.Model;
-using Eonix.Api.Requests;
+using Eonix.Api.Contracts;
+using Eonis.Api.Tests.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using System;

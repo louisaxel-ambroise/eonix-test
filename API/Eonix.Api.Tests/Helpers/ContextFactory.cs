@@ -3,7 +3,7 @@ using Eonix.Api.Model;
 using Microsoft.EntityFrameworkCore;
 using System;
 
-namespace Eonis.Api.Tests;
+namespace Eonis.Api.Tests.Helpers;
 
 public static class ContextFactory
 {

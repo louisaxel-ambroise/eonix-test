@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Eonix.Api.Requests
+namespace Eonix.Api.Contracts
 {
     public class CreatePersonneRequest
     {

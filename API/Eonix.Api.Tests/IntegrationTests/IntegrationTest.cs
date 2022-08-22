@@ -1,5 +1,6 @@
 ﻿using Eonix.Api.Database;
 using Eonix.Api.Tests.IntegrationTests;
+using Eonis.Api.Tests.Helpers;
 using Microsoft.Extensions.DependencyInjection;
 using System.Net.Http;
 

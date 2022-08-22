@@ -1,12 +1,13 @@
 using Eonix.Api.Controllers;
-using Eonix.Api.Requests;
+using Eonix.Api.Contracts;
+using Eonis.Api.Tests.Helpers;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Eonis.Api.Tests;
+namespace Eonis.Api.Tests.Endpoints;
 
 [TestClass]
 public class ListEndpointTests

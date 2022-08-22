@@ -1,7 +1,7 @@
 ﻿using Eonix.Api.Model;
 using Eonix.Api.Utils;
 
-namespace Eonix.Api.Requests
+namespace Eonix.Api.Contracts
 {
     public class PersonneFilter : IFilter<Personne>
     {

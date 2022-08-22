@@ -1,6 +1,6 @@
 ﻿using Eonix.Api.Model;
 
-namespace Eonix.Api.Requests
+namespace Eonix.Api.Contracts
 {
     public sealed class PersonneResponse
     {

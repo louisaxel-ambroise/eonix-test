@@ -1,5 +1,5 @@
 ﻿using Eonix.Api.Model;
-using Eonix.Api.Requests;
+using Eonix.Api.Contracts;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
 

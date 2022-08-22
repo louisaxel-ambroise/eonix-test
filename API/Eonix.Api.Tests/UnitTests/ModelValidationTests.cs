@@ -1,4 +1,4 @@
-﻿using Eonix.Api.Requests;
+﻿using Eonix.Api.Contracts;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
