@@ -3,7 +3,7 @@ using Eonix.Api.Contracts;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Linq;
 
-namespace Eonis.Api.Tests;
+namespace Eonix.Api.Tests;
 
 [TestClass]
 public class PersonneFilterTests

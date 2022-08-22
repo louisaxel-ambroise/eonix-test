@@ -1,6 +1,6 @@
 ﻿using Eonix.Api.Model;
 using Eonix.Api.Contracts;
-using Eonis.Api.Tests.Helpers;
+using Eonix.Api.Tests.Helpers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
 using System;
@@ -9,7 +9,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Eonis.Api.Tests.IntegrationTests;
+namespace Eonix.Api.Tests.IntegrationTests;
  
 [TestClass]
 public class PersonneEndpointsTestsIntegration : IntegrationTest

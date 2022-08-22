@@ -1,10 +1,10 @@
 ﻿using Eonix.Api.Database;
 using Eonix.Api.Tests.IntegrationTests;
-using Eonis.Api.Tests.Helpers;
+using Eonix.Api.Tests.Helpers;
 using Microsoft.Extensions.DependencyInjection;
 using System.Net.Http;
 
-namespace Eonis.Api.Tests.IntegrationTests;
+namespace Eonix.Api.Tests.IntegrationTests;
 
 public abstract class IntegrationTest
 {

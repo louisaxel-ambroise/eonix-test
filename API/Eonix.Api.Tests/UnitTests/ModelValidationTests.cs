@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Eonis.Api.Tests;
+namespace Eonix.Api.Tests;
 
 [TestClass]
 public class ModelValidationTests
