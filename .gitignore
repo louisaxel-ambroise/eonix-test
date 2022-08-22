@@ -1,0 +1,15 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.vs
+.vscode
+
+# Csharp files
+bin
+obj
+src/*.dll
+test/*.dll
+*.suo
+*.user
+*.db
+*.db-*

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eonix.Api", ".\Eonix.Api\Eonix.Api.csproj", "{DB6B1341-AEF1-471C-B67E-2ED8940FE6DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eonix.Api.Tests", ".\Eonix.Api.Tests\Eonix.Api.Tests.csproj", "{3B3DFD5D-AAEE-4CBB-AFF4-A504D44761A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6B1341-AEF1-471C-B67E-2ED8940FE6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B1341-AEF1-471C-B67E-2ED8940FE6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B1341-AEF1-471C-B67E-2ED8940FE6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B1341-AEF1-471C-B67E-2ED8940FE6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3DFD5D-AAEE-4CBB-AFF4-A504D44761A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3DFD5D-AAEE-4CBB-AFF4-A504D44761A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3DFD5D-AAEE-4CBB-AFF4-A504D44761A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3DFD5D-AAEE-4CBB-AFF4-A504D44761A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7FF578-0947-48CE-8173-7C255ADAC1A7}
+	EndGlobalSection
+EndGlobal
